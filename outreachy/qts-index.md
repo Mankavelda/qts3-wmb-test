@@ -4,7 +4,7 @@ The **QuickStatements 3.0** homepage offers users a straightforward interface to
 
 ---
 
-## 1. Navigation Bar
+## Navigation Bar
 The navigation bar at the top of the page provides easy access to key areas of the application:
 
 - **QuickStatements 3.0**: Returns the user to the homepage.
@@ -18,11 +18,7 @@ On the right side of the navigation bar, logged-in users can view:
 
 ---
 
-## 2. Welcome Message
-The central heading welcomes the user to **QuickStatements 3.0**.
----
-
-## 3. Key Functionalities
+## Key Functionalities
 
 ### **New Batch Button**
 - **Purpose**: This blue button allows users to create a new batch of commands for processing on Wikidata.
@@ -39,14 +35,6 @@ The central heading welcomes the user to **QuickStatements 3.0**.
 - **Style**: This button is also styled in blue to match the overall theme and provide visual uniformity.
 
 ---
-
-## 4. Input Fields
-- **Batch ID**: Accepts numerical input for batch identification. Users can input the ID of an existing batch they want to explore.  users input a Batch ID and click the **See batch details** button, they can view the details of the batch associated with that ID.
-
-- **Username**: Accepts a string input for retrieving batches associated with a specific user. Users can input a username and click the **See batches by user** button to retrieve all batches associated with that specific user.
-
----
-
 
 ## Conclusion
 The homepage of **QuickStatements 3.0** is designed to provide a user-friendly experience for batch management on Wikidata. The clear navigation options, buttons, and simple input fields make it easy for users to navigate through their batch operations, providing an easy and efficient user experience.
